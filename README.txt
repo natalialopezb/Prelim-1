@@ -1,4 +1,4 @@
-README - Prelim 1
+Prelim 1
 
 The following folder contains all files require to solve Prelim 1. 
 A written response (mostly by-hand) can be found in the document "Soluntion.pdf"
